@@ -29,6 +29,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/mrgear111)  
 
 ---
+### 📊 **My GitHub Stats**
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrgear111&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgear111&layout=compact&theme=radical&hide_border=true) |
+|:---:|:---:|
+
+---
+
+
 🎉 Thanks for Stopping By!
 
 ### 👀 **Profile View Counter**
