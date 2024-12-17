@@ -23,12 +23,6 @@
 
 ---
 
-### 🐍 **Contribution Snake**  
-
-![GitHub Contribution Snake](https://github.com/mrgear111/mrgear111/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 **Let's Connect**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daksh-saini-70a68830a/)  
