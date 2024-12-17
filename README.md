@@ -37,8 +37,10 @@
 ---
 🎉 Thanks for Stopping By!
 
-### 👀 **Dynamic Viewer Count**  
+### 👀 **Profile View Counter**
+![Profile Views](https://komarev.com/ghpvc/?username=mrgear111&color=blue&style=flat-square)
+
 ```python
-# You've just been counted!
-viewer_count = total_views + 1  
+# Each visit counts!
+viewer_count += 1  # You just boosted my stats! 🚀
 
