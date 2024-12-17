@@ -1,6 +1,7 @@
 # 👋 Hey there! I'm **Daksh Saini** 🚀  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Robotics+and+Web+Development+Enthusiast!;Open+Source+Contributor.;Hackathon+Lover.;Welcome+to+my+creative+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Daksh+Saini.;Robotics+and+Web+Dev+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
+
 
 ---
 
@@ -36,5 +37,8 @@
 ---
 🎉 Thanks for Stopping By!
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrgear111&color=blue&style=flat-square)
+### 👀 **Dynamic Viewer Count**  
+```python
+# You've just been counted!
+viewer_count = total_views + 1  
 
