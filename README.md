@@ -37,7 +37,7 @@
 ---
 
 
-🎉 Thanks for Stopping By!
+🎉 Thanks for Stopping By!!
 
 ### 👀 **Profile View Counter**
 ![Profile Views](https://komarev.com/ghpvc/?username=mrgear111&color=blue&style=flat-square)
