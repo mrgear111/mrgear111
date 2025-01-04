@@ -31,9 +31,8 @@
 ---
 ### 📊 **My GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical)
 
----
 
 
 🎉 Thanks for Stopping By!!
