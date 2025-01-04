@@ -31,8 +31,7 @@
 ---
 ### 📊 **My GitHub Stats**
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-github-username?label=Stars&style=social)
+![GitHub Contribution Snake](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 
 🎉 Thanks for Stopping By!!
