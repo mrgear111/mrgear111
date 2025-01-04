@@ -31,7 +31,7 @@
 ---
 ### 📊 **My GitHub Stats**
 
-![GitHub Contribution Snake](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=radical)
 
 
 🎉 Thanks for Stopping By!!
