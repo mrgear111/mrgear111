@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 **About Me**  
 - 🔭 **Passionate About**: Robotics 🤖 | Web Development 🌐 | Open Source 💻  
-- 🌱 **Currently Learning**: MoveIt, OpenWISP, and Advanced Python Scripting 🐍  
+- 🌱 **Currently Learning**: Advanced Python Scripting | Javascript | Web Dev Frameworks |  🐍  
 - 💡 **Looking to Collaborate On**: Open-source robotics projects, hackathons, and innovation challenges.  
 - 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.  
 
