@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Daksh Saini !** 🚀  
+# 👋 Hey there! I'm **Daksh Saini** 🚀  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Daksh+Saini.;Robotics+and+Web+Dev+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
 
