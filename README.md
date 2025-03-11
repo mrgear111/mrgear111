@@ -49,6 +49,13 @@ viewer_count += 1  # You just boosted my stats! 🚀
 
 <div align="center">
 
+## 📊 Contribution Overview
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrgear111&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgear111&layout=compact&theme=radical&hide_border=true) |
+|:---:|:---:|
+
+[![Daksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrgear111&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🌟 Featured Projects
 
 <a href="https://github.com/mrgear111/project1">
@@ -58,29 +65,12 @@ viewer_count += 1  # You just boosted my stats! 🚀
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrgear111&repo=project2&theme=tokyonight" />
 </a>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrgear111&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 Contribution Graph
-
-[![Daksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrgear111&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-mrgear111.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
 </div>
 
 ---
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
 
 <!-- 
