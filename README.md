@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Daksh+Saini.;Robotics+and+Web+Dev+Enthusiast.;Open+Source+Contributor.;Balancing+laziness+and+building+something+awesome!)](https://git.io/typing-svg)
 
- 
+
 ---
  
 ### 🧑‍💻 **About Me**  
@@ -15,11 +15,12 @@
  
 ### 🚀 **Skills & Tools**  
 
-| 💻 Languages | 🛠️ Tools & Frameworks | 🌟 Interests |
+| 💻 Languages | 🛠️ Frameworks & Libraries | ⚙️ Tools |
 |--------------|-----------------------|-------------|
-| ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-Fork%20It-red?logo=git&logoColor=white) | Robotics 🤖 |
-| ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5) | ![Linux](https://img.shields.io/badge/Linux-Command%20Line-black?logo=linux&logoColor=white) | Web Dev 🌐 |
-| ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) | ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white) | Hackathons 🎉 |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
@@ -45,3 +46,47 @@
 
 # Each visit counts!
 viewer_count += 1  # You just boosted my stats! 🚀
+
+<div align="center">
+
+## 🌟 Featured Projects
+
+<a href="https://github.com/mrgear111/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrgear111&repo=project1&theme=tokyonight" />
+</a>
+<a href="https://github.com/mrgear111/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrgear111&repo=project2&theme=tokyonight" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrgear111&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Contribution Graph
+
+[![Daksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrgear111&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎵 Currently Vibing To
+[![Spotify](https://novatorem-mrgear111.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</div>
+
+<!-- 
+Note: To make the Spotify widget work, you'll need to:
+1. Fork: https://github.com/novatorem/novatorem
+2. Set it up with your Spotify account
+3. Deploy to Vercel
+4. Replace YOUR_SPOTIFY_USER_ID with your actual Spotify user ID
+-->
