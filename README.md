@@ -9,7 +9,7 @@
 - 🔭 **Passionate About**: Robotics 🤖 |  WebDevelopment  🌐 | Open  Source 💻   
 - 🌱 **Currently Learning**: Advanced Python Scripting | Javascript | Web Dev Frameworks |  🐍  
 - 💡 **Looking to Collaborate On**: Open-source robotics projects, hackathons, and innovation challenges.  
-- 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.  
+- 🎯 **Fun Fact**: I balance laziness ☕ with building something **awesome** 🚀.   
  
 ---
  
