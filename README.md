@@ -92,7 +92,7 @@
 
 ## 🌟 **Featured Creations**  
 <div align="center">
-  <a href="https://github.com/mrgear111/project1">
+  <a href="https://github.com/mrgear111/SkillFest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrgear111&repo=project1&theme=dracula" alt="Project 1"/>
   </a>
   <a href="https://github.com/mrgear111/project2">
