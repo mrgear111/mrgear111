@@ -7,7 +7,7 @@
 ---  
 
 ## 🧑‍💻 **Who Am I?**  
-- 🔭 **Obsessed With**: Robotics 🤖 | Web Dev 🌐 | Open Source 💻   
+- 🔭 **Obsessed With**: Robotics 🤖 | Web Dev 🌐 | Open Source 💻    
 - 🌱 **Leveling Up**: Advanced Python | JavaScript | Next.js | TailwindCSS 🐍   
 - 💡 **Collab Goals**: Robotics projects, hackathons, or anything wild and innovative!   
 - 🎯 **Random Fact**: I’m 50% lazy, 50% coding genius, 100% fueled by ☕.  
