@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00DDEB&width=450&lines=Robotics+%26+Web+Dev+Wizard;Open+Source+Evangelist;Turning+Coffee+into+Code)](https://git.io/typing-svg)
  
 ---    
-
+ 
 ## 🧑‍💻 **Who Am I?**  
 - 🔭 **Obsessed With**: Robotics 🤖 | Web Dev 🌐 | Open Source 💻    
 - 🌱 **Leveling Up**: Advanced Python | JavaScript | Next.js | TailwindCSS 🐍   
