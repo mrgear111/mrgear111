@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daksh%20Saini&fontSize=60&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=00DDEB&width=450&lines=Robotics+%26+Web+Dev+Wizard;Open+Source+Evangelist;Turning+Coffee+into+Code)](https://git.io/typing-svg)
- 
+  
 ---    
  
 ## 🧑‍💻 **Who Am I?**  
