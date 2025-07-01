@@ -98,7 +98,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrgear111&theme=dracula&hide_border=true" alt="Activity Graph"/>
 </div>
-
+ 
 ---
 
 ## 👀 **Profile Views**  
