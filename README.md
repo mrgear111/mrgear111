@@ -4,7 +4,7 @@
   
 ---     
  
-## 🧑‍💻 **Who Am I?**  
+## 🧑‍💻 **Who Am I?**   
 - 🔭 **Obsessed With**: Robotics 🤖 | Web Dev 🌐 | Open Source 💻         
 - 🌱 **Leveling Up**: Advanced Python | JavaScript | Next.js | TailwindCSS 🐍      
 - 💡 **Collab Goals**: Robotics projects, hackathons, or anything wild and innovative!     
