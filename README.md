@@ -12,7 +12,7 @@
  
 ---
 
-## 🚀 **Tech Arsenal**  
+## 🚀 **Tech Arsenal**   
 *Mastering the tools of innovation with style and precision.*  
 
 ---
