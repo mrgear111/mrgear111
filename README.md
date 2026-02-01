@@ -35,21 +35,6 @@
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/mrgear111)  
 
 ---
-
-## 📊 **GitHub Vibes**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrgear111&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgear111&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrgear111&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-
- 
 ---
 
 ## 📈 **Activity Pulse**  
